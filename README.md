@@ -9,6 +9,7 @@ A image loader app using unsplash api, illustrating Android development best pra
   4. Paging3 library - For pagination
   5. Dagger hilt - Dependency Injection
   6. LruCache - Image Caching and loading
+  7. Clean Architecture with MVVM
 
 # Screenshots
 
