@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageLoaderApp</string>
+    <string name="network_issue">A network issue has occurred.Please try later.</string>
+</resources>
