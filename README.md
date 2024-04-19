@@ -4,4 +4,5 @@ A image loader app using unsplash api, illustrating Android development best pra
 
 # Screenshots
 
-List Screen           |  Network Issue Screen
+List Screen         
+![Uploading screen_main.png…]()
