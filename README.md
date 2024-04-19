@@ -4,7 +4,7 @@ A image loader app using unsplash api, illustrating Android development best pra
 
 # Tech Stack used
   1. Jetpack Compose - UI Development
-  2. Coroutines - Asynchronous Programming
+  2. Coroutines and flows - Asynchronous Programming
   3. Retrofit and GsonConverter - Networking
   4. Paging3 library - For pagination
   5. Dagger hilt - Dependency Injection
